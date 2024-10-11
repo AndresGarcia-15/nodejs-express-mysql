@@ -34,6 +34,6 @@ jobs:
       with:
         app-name: pipe1234
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07AD836680264ECE83A84546B1E75411 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4447AB32F53D4C39A1D36FF642503080 }}
         package: .
 
