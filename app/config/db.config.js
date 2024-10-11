@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb"
+  HOST: "52.228.71.7",
+  USER: "pipe",
+  PASSWORD: "pipe1234",
+  DB: "escuadra_db"
 };
