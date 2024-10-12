@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "4.205.241.246",
+  HOST: "constelacion.canadacentral.cloudapp.azure.com",
   USER: "pipe",
   PASSWORD: "pipe1234",
   DB: "escuadra_db"
